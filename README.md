@@ -1,6 +1,6 @@
 # ghosttrip
 
-This is a quickly hacked-together serial port NMEA GPS Emulator for Windows using MFC. I needed a simple piece of software to walk a route of waypoints at a given speed while writing NMEA compatible GPS data to a selected serial port. For me, it was particularily useful for testing/debugging an external GPS logger. As the experiment is done now, I thought someone might find this code useful as a basis for own projects instead of just dummping it.
+This is a quickly hacked-together serial port NMEA GPS Emulator for Windows using MFC. I needed a simple piece of software to walk a route of waypoints at a given speed while writing NMEA compatible GPS data to a selected serial port. For me, it was particularily useful for testing/debugging an external GPS logger. As the experiment is done now, I thought someone might find this code useful as a basis for own projects instead of just dumping it.
 
 Features:
 - reads KML files i.e. created with Google Earth
