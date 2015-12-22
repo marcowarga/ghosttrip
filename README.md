@@ -8,7 +8,7 @@ Features:
 - start/stop walking with space bar
 - correct current position with arrow keys or num block
 - double click waypoint to set it as new destination
-- speach support (I had only one screen for the PC and the device...)
+- speech support (I had only one screen for the PC and the device so this was useful...)
 
 This repo contains code pieces from:
 
