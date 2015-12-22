@@ -98,9 +98,6 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="ghosttrip.h" />
     <ClInclude Include="ghosttripDlg.h" />
     <ClInclude Include="Resource.h" />
