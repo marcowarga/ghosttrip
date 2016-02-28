@@ -5,7 +5,7 @@
 //Written by Sam Best for CS325
 //Prototypes of city class
 //Last modified 3/12/2013
-
+#include "stdafx.h"
 #include "city.h"
 #include "tree.h"
 #include <iostream>

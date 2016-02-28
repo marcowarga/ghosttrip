@@ -2,7 +2,7 @@
 //is a binary search tree of cities, sorted by relative distance to oother cities.
 //Originally written by Sam Best for CS202, modified for CS325
 //Originally written May 2012, last update 3/12/2013
-
+#include "stdafx.h"
 #include "tree.h"
 #include <iostream>
 using namespace std;

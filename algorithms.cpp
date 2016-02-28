@@ -5,7 +5,7 @@
 //the order of the current solution to the problem.
 //Written by Sam Best for CS325
 //Last modified 3/12/2013
-
+#include "stdafx.h"
 #include "algorithms.h"
 #include <iostream>
 #include <deque>

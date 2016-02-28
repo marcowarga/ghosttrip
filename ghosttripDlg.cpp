@@ -776,7 +776,10 @@ void CghosttripDlg::OnTimer(UINT nIDEvent)
     }
     if((nIDEvent == 2) && (m_nTimer2 != 0))
     {
-        UpdateDestDistance(true);
+        if(m_vecWPT.size() > 0)
+        {
+            UpdateDestDistance(true);
+        }
     }
 
     CDialog::OnTimer(nIDEvent);
